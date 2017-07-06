@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 class palin
 {
-    public static void main(String arsg[])
+    public static void main(String args[])
     {
         Scanner x=new Scanner(System.in);
         int n=x.nextInt();
